@@ -1,0 +1,76 @@
+.box-static{
+    position:static;
+    background-color: #f4f4f4;
+    padding: 20px;
+    margin: 10px;
+    border: 2px solid #333333;
+}
+
+.box-relative{
+    position : relative;
+    top: 20px;
+    left: 10px;
+    background:linear-gradient(to right, red,white); 
+    padding: 15px; 
+    margin-bottom:30px; 
+    border:1px solid #333333;
+}
+
+.box{
+    position:relative;
+    background: linear-gradient(45deg, turquoise,white,cyan);
+    height: 100px;
+    width: auto;
+}
+
+.box1{
+    position:relative;
+    background: radial-gradient(circle,cyan,white,turquoise);
+    height: 300px;
+    width: 300px;
+}
+
+.parent-container{
+    position:relative;
+    background-color:chartreuse;
+    height:250px;
+    margin:20px;
+    border:12px solid black;
+    padding: 20px;
+}
+
+.pin{
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: rgb(228, 133, 18);
+    font-weight: bold;
+    border-radius: 4px;
+}
+
+.top-left{
+top:10px;
+left: 10px;
+background: red;
+}
+
+.top-right{
+top:10px;
+right: 10px;
+background: rgb(20, 12, 2);
+}
+.bottom-left{
+    bottom:10px;
+    left:10px;
+    background: blue;
+}
+
+.bottom-right{
+    bottom:10px;
+    right:10px;
+    background: purple;
+}
+
