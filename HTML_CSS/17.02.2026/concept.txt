@@ -1,0 +1,44 @@
+position :
+
+display :
+grid : 2D Containers
+flex : 1D Containers
+
+
+grid properties :
+gap :
+
+
+units :
+1 inch : 96px
+1 cm : 37.8px
+1em : 16px
+1rem : 16px
+
+1fr : 
+
+media query :
+responsive :
+
+logical operrators :
+and ,or , not
+
+border-box :
+content-box:
+border-box:
+
+margin
+padding
+border
+
+grid-template-areas : The grid-template-areas
+ CSS property allows you to define and name the cells (or "areas") in a CSS grid container.
+
+grid-template-column :
+grid-template-rows :
+
+media query : responsiveness
+
+transform :
+
+transition :
