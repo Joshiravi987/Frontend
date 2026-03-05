@@ -1,0 +1,23 @@
+Operators :
+Ternary Operators :
+(condition) ? true :false
+Relational Operator : <,>,>=.<= ,== !== ,===,!=
+
+conditional Rendering :
+
+Functions :
+
+predefined function :
+
+typeof() : used to get the data thpe of variable 
+
+userdefined function :
+
+Higher Order Function :
+Map : Boolean 
+Filter : number , string
+Reduce : accumulate 
+
+BOM : Browser Object Model :
+window.alert() 
+window.prompt()

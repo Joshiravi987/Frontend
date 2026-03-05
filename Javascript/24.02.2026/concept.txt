@@ -1,0 +1,74 @@
+javascript programming : synchronous single threaded programming language
+DOM + Virtual DOM
+
+1995 : Mocha : Brandan Eich : LiveScript : JavaScript
+ES :Module Based Programming
+1997 : ECMAScript :E51 : Browsers
+Chrome : Java script engine :v8 engine :node js
+Safari : javascript core
+Firefox :spyder monkey
+Edge : chakra
+
+ECMA : Europian Computer Manufacturer Association 
+1993 : E53 : try/catch :exception handling
+2005 : AJAX Revolution : Asynchronus JavaScript and XML
+XML : Extended Markup language
+
+
+2009  :ES5 and node JS :
+ES5 : foreach , map , filter
+Ryan Dahl : 2009 : Run the javascript codes on servers
+2010-2013 : Framwork Era :
+Angular JS : Developed by Google 
+React JS : Developed by Facebook
+Single page Web Application
+
+Moder Js : 
+ES6 : 2015
+let and const : used for better variable scoping
+Arrow function : () => {}
+Classes : oops paradigm
+Promises : better way to handle the data that takes time to load 
+Teplate Literals : `` for string
+
+2016 :present :
+2017 :Async Await :
+2020 :chaining : ?
+2022 : Encapsulation : #
+2024 : Array Grouping
+
+default datatype of javascript : undefined
+Datatypes :
+Number :int, float
+String :
+Null :
+Undefined :
+Symbol : 
+Boolean :
+Array : object 
+
+let , const , var 
+
+let : blocked scoped 
+const : blocked scoped 
+var : scope : global
+
+Web API :
+console -
+document -
+
+In JavaScript , a literal is a fixed value written directly into the code, unlike a variable . Literals are used to represent values of various data types, such as numbers , strings and objects.
+
+toFixed() : Formats a number using fixed-point notation to a specific number of decimal places
+
+selectors :
+id selector
+class selector
+query selector
+queryselectorAll
+className
+tagName
+
+HtmlCollection
+NodeList
+
